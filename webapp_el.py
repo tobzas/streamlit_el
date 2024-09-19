@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("Lecture VDO Selection")
+# st.title("Lecture VDO Selection")
 
-
+# Title HTML Code
 title_writing = "Lecture VDO Selection"
 title_format = f'<p style="text-align: center; font-family: ' \
                f'Arial; color: #ffffff; font-size: 40px; ' \

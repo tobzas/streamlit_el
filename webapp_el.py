@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title("Lecture VDO Selection")
 
+st.title("<h1 style='text-align: center; color: red;'>Lecture VDO Selection</h1>")
+
 st.write("This is some text")
 
 st.header("This is a header")

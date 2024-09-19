@@ -8,6 +8,4 @@ st.header("This is a header")
 
 st.markdown("## This an h2 header")
 
-st.divider("")
-
 st.caption("This is a caption")

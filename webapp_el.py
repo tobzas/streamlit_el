@@ -11,6 +11,3 @@ st.markdown("## This an h2 header")
 st.divider("")
 
 st.caption("This is a caption")
-
-
-VIDEO_URL "https://www.youtube.com/watch?v=SxF3e3yc3rU"

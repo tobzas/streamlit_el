@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Lecture VDO Selection")
 
-st.title("<h1 style='text-align: center; color: red;'>Lecture VDO Selection</h1>", unsafe_allow_html=True)
+
 
 st.write("This is some text")
 

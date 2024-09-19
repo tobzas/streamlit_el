@@ -5,7 +5,7 @@ st.title("Lecture VDO Selection")
 
 title_writing = "Lecture VDO Selection"
 title_format = f'<p style="text-align: center; font-family: ' \
-               f'Arial; color: #ffffff; font-size: 40px; ' \
+               f'Arial; color: #ffffff; font-size: 50px; ' \
                f'font-weight: bold;">{title_writing}</p>'
 st.markdown(title_format, unsafe_allow_html=True)
 

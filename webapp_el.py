@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Lecture VDO Selection")
 
 
-title_writing = "Test Title"
+title_writing = "Lecture VDO Selection"
 title_format = f'<p style="text-align: center; font-family: ' \
                f'Arial; color: #ffffff; font-size: 40px; ' \
                f'font-weight: bold;">{title_writing}</p>'

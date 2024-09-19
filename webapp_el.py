@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Streamlit App")
+st.title("Lecture VDO Selection")
 
 st.write("This is some text")
 

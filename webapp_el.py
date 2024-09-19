@@ -20,5 +20,5 @@ st.markdown(title_format, unsafe_allow_html=True)
 
 #st.caption("This is a caption")
 
-# st.video('https://www.youtube.com/watch?v=tDt7X6coxvs') 
+st.video('https://www.youtube.com/watch?v=tDt7X6coxvs') 
 # video_format
